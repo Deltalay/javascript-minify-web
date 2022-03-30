@@ -1,4 +1,3 @@
-const Uglify = require("uglify-js");
 const data = require("./mini/index");
 var cors = require("cors");
 const express = require("express");
