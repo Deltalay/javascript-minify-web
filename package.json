@@ -1,7 +1,7 @@
 {
   "name": "minify",
   "version": "1.0.0",
-  "description": "",
+  "description": "This is just simple javascript minify.",
   "main": "main.js",
   "scripts": {
     "start": "node main"
@@ -12,7 +12,7 @@
   "dependencies": {
     "cors": "^2.8.5",
     "ejs": "^3.1.8",
-    "express": "^4.18.1",
-    "uglify-js": "^3.16.2"
+    "express": "^4.18.2",
+    "uglify-js": "^3.17.4"
   }
 }
